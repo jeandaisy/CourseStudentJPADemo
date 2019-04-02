@@ -24,13 +24,14 @@ import javax.persistence.Table;
 public class Course implements Serializable{
 	private static final long serialVersionUID = -511979213258675751L;
 	private Integer seqId;
-	private String name;
-	private Integer credit;
 	private Teacher teacher;
 	private String inactiveInd = "N";
 	private Set<Student> students;
 //	private Set<CourseStudentAssoc> courseStudentAssoc;
 	public Course() {
+		sdafjlkafklsjf;
+		jfkdajflka;
+		fjkdlasjlfk;
 	}
 
 	public Course(String name, Integer credit) {
